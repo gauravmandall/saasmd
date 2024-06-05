@@ -119,7 +119,7 @@ saasmd init -sf yes -pm bun --orm prisma -db pg -a next-auth -ap github discord 
 
 | Command | Short Flag | Long Option       | Description                                    | Argument          |
 | ------- | ---------- | ----------------- | ---------------------------------------------- | ----------------- |
-| init    | -          | -                 | initialise and configure kirimase              | -                 |
+| init    | -          | -                 | initialise and configure saasmd              | -                 |
 | -       | -sf        | --src-folder      | use a src folder                               | `yes` or `no`     |
 | -       | -pm        | --package-manager | package manager                                | `<pm>`            |
 | -       | -cl        | --component-lib   | component library                              | `<component-lib>` |
