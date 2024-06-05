@@ -1,6 +1,6 @@
 {
   "name": "saasmd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI tool to generate a SaaS project with Prisma, Auth.js, and more.",
   "main": "./src/index.ts",
   "type": "module",
