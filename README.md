@@ -10,6 +10,28 @@ npm install -g saasmd
 
 If you don't already have a Nextjs app, run create-next-app with your preferred package manager.
 
+```bash
+npx create-next-app@latest saasmd-tutorial
+
+or
+
+yarn create-next-app saasmd-tutorial
+
+or
+
+pnpm dlx create-next-app saasmd-tutorial
+
+or
+
+bunx create-next-app saasmd-tutorial
+```
+
+Then go into the directory of your project:
+
+```bash
+cd saasmd-tutorial
+```
+
 Then run the following command within the directory of your project:
 
 ```bash
